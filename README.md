@@ -1,5 +1,5 @@
 <div align="center">
-    <img src ="https://github.com/kdaxh/Basket-Analysis/blob/32fe91661bc305419635cc4ed2e259d29f48e60d/Screenshot.png" />  
+    <img src ="https://github.com/kdaxh/Customer-Churn-Analysis/blob/8b639d697468746da09e0857d2699988e132d3d5/Screenshot.png" />  
     
 </div>
 <br>
