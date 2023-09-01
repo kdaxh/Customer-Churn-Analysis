@@ -3,11 +3,18 @@
     
 </div>
 <br>
-<h3>Basket-Analysis</h3>
+<h3>Bank Customer Churn Analysis</h3>
 
 ```python
 
-"Basket Analysis" or "Market Basket analysis" is a data mining technique used by retailers
-    to increase sales by better understanding customer purchasing patterns.
+"Customer churn" is when customers cease their relationship with a company or business, typically by
+discontinuing their use of its products or services. It is a significant concern for businesses
+across various industries, including telecommunications, software, e-commerce, and subscription-based
+services.
 
-This Repo has carries files for basket analysis done for Groceries data in Power BI
+Customer churn is a crucial metric impacting a company’s profitability and growth. Losing existing
+customers leads to revenue decline and incurs costs associated with acquiring new customers to
+replace the lost ones. High customer churn can also damage a company’s reputation and hinder its
+long-term sustainability.
+
+This Repo has carries files for Churn analysis done for Banking data in Power BI.
